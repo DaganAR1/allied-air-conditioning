@@ -1,0 +1,7 @@
+{
+  "name": "Allied Air Conditioning Solutions",
+  "description": "Allied Air Conditioning Solutions\n📞 (940) 808-1990\n📍 1210 Duncan St Building 5 Suite 100, Denton, TX 76205, USA",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
