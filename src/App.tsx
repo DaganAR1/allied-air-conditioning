@@ -313,7 +313,7 @@ export default function App() {
             <div className="lg:flex-[0.8] relative w-full max-w-lg mx-auto lg:mx-0">
               <div className="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl aspect-square lg:aspect-[4/5]">
                 <img 
-                  src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=1000" 
+                  src="https://trusteyman.com/wp-content/uploads/2020/06/AdobeStock_206545192-scaled.jpeg" 
                   alt="Allied AC Solutions expert at work" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
